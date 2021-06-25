@@ -1,17 +1,17 @@
-## server.property
-# chatWorkApikey
+# server.property
+### chatWorkApikey
 apiKey=
-# chatWorkRoomID
+### chatWorkRoomID
 roomId=
-# remoteSMTPHost
+### remoteSMTPHost
 remoteHost=
-# remoteSMTPPort
+### remoteSMTPPort
 remotePort=
-# thisServerHost
+### thisServerHost
 localHost=
-# thisServerPort
+### thisServerPort
 localPort=
-# transferAddr
+### transferAddr
 toAddr=
-# transferToAllAddr
+### transferToAllAddr
 toAllAddr=
